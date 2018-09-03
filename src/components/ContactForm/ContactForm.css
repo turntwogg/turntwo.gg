@@ -1,0 +1,14 @@
+.contact-form {
+  display: grid;
+  grid-gap: 24px;
+}
+
+@media (min-width: 750px) {
+  .contact-form {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .contact-form .form-item-message {
+    grid-column: 1 / span 2;
+  }
+}

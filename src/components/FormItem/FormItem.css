@@ -1,0 +1,28 @@
+.form-item {
+  display: flex;
+  flex-flow: column;
+  margin-bottom: 24px;
+}
+
+.form-item-label {
+  font-size: 0.875rem;
+}
+
+.form-item-required {
+  display: inline-block;
+  color: red;
+  transform: translateY(-5px);
+}
+
+.form-item-input {
+  width: 100%;
+  padding: 8px 0;
+  border: 0;
+  border-bottom: 1px solid #212121;
+  outline: none;
+  transition: 250ms ease border;
+}
+
+.form-item-input:focus {
+  border-bottom-color: #2196f3;
+}

@@ -1,0 +1,9 @@
+.page-contact {
+  padding-top: 48px;
+}
+
+@media (min-width: 750px) {
+  .page-contact .layout-container {
+    width: 75%;
+  }
+}

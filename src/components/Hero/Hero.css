@@ -1,0 +1,43 @@
+.hero {
+  margin-bottom: 48px;
+  color: #fff;
+}
+
+.hero-inner {
+  position: relative;
+  max-height: calc(75vh - 64px);
+  overflow: hidden;
+}
+
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  transform: translateY(-50%);
+}
+
+.hero-text {
+  margin: 0;
+  font-size: 28px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.wf-robotomono-n4-active .hero-text {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.hero-img {
+  width: 100%;
+}
+
+@media (min-width: 750px) {
+  .hero {
+    margin-bottom: 72px;
+  }
+
+  .hero-text {
+    font-size: 36px;
+  }
+}
