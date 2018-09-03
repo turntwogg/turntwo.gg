@@ -6,9 +6,9 @@ import Project from '../components/Project'
 
 import projects from '../data/projects'
 
-import projectsHero from './projects-hero.jpg'
-import projectsHeroMedium from './projects-hero-medium.jpg'
-import projectsHeroSmall from './projects-hero-small.jpg'
+import projectsHero from '../images/projects-hero.jpg'
+import projectsHeroMedium from '../images/projects-hero-medium.jpg'
+import projectsHeroSmall from '../images/projects-hero-small.jpg'
 
 const Projects = () => (
   <div className="page page-projects">

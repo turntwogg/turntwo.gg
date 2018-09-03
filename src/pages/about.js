@@ -5,9 +5,9 @@ import Container from '../components/Container'
 import Hero from '../components/Hero'
 import Button from '../components/Button'
 
-import aboutHero from './about-hero.jpg'
-import aboutHeroMedium from './about-hero-medium.jpg'
-import aboutHeroSmall from './about-hero-small.jpg'
+import aboutHero from '../images/about-hero.jpg'
+import aboutHeroMedium from '../images/about-hero-medium.jpg'
+import aboutHeroSmall from '../images/about-hero-small.jpg'
 
 const About = () => (
   <div className="page page-about">

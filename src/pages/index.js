@@ -4,13 +4,13 @@ import Link from 'gatsby-link'
 import Container from '../components/Container'
 import Hero from '../components/Hero'
 
-import heroBg from './hero-bg.jpg'
-import heroBgMedium from './hero-bg-medium.jpg'
-import heroBgSmall from './hero-bg-small.jpg'
+import heroBg from '../images/hero-bg.jpg'
+import heroBgMedium from '../images/hero-bg-medium.jpg'
+import heroBgSmall from '../images/hero-bg-small.jpg'
 
-import whatWeDo from './what-we-do.jpg'
-import whyWeDoIt from './why-we-do-it.jpg'
-import whoWeAre from './who-we-are.jpg'
+import whatWeDo from '../images/what-we-do.jpg'
+import whyWeDoIt from '../images/why-we-do-it.jpg'
+import whoWeAre from '../images/who-we-are.jpg'
 
 import './index.css'
 
