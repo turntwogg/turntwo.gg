@@ -1,4 +1,4 @@
-import finalRound from './final-round.jpg'
+import finalRound from '../images/final-round.jpg'
 
 const projects = [
   {
