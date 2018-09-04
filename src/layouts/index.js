@@ -17,7 +17,8 @@ const Layout = ({ children, data }) => (
       meta={[
         {
           name: 'description',
-          content: 'Your Premier Esports Product Consultancy',
+          content:
+            'Full service esports product consultancy, specializing in digital design and development.',
         },
       ]}
     />
