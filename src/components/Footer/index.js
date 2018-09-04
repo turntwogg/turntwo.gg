@@ -13,7 +13,7 @@ const Footer = () => (
         <div className="site-footer-block" style={{ textAlign: 'center' }}>
           <p>Interested in working with us? Drop us a line</p>
           <p>
-            <Button type="outline">hello@turntwo.gg</Button>
+            <Button href="mailto:hello@turntwo.gg">hello@turntwo.gg</Button>
           </p>
         </div>
 
@@ -26,7 +26,6 @@ const Footer = () => (
                 Twitter
               </a>
             </li>
-            <li className="social-media-list-item">Facebook</li>
             <li className="social-media-list-item">
               <a class="social-media-list-link" href="//github.com/turntwogg">
                 GitHub

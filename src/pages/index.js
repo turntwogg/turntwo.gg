@@ -18,7 +18,7 @@ const rows = [
   {
     title: 'What We Do',
     text:
-      "We are a full service design and engineering firm. What's that mean? Basically, we'll build out any site or application you need. We can also provide branding for your organization. You can come to us at any stage of your idea or with any need, and we will help you craft a strategy and execute it.",
+      'We are a full service design and engineering consultancy specializing in esports and gaming products. We can take an idea at any stage, craft a strategy and execute it.',
     img: whatWeDo,
   },
   {
