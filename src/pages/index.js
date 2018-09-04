@@ -30,7 +30,7 @@ const rows = [
   {
     title: 'Who We Are',
     text:
-      "We are a team of talented and specialized engineers with a love for all things gaming and web. We have over a decade of experience between us, and have each worked with enterprise clients such as Adobe, UCF, Bonnier, E-Z Rent A Car, Pantheon, & CH2M. We know what we're doing.",
+      "We are a team of talented and specialized engineers with a love for all things gaming and web. We have over a decade of experience and have worked with enterprise clients such as YMCA, Stanford, Berkley, Pantheon, & CH2M. We know what we're doing.",
     img: whoWeAre,
   },
 ]
