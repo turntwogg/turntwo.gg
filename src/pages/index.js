@@ -55,7 +55,12 @@ const IndexPage = () => (
               <p className="index-grid-item-text">{row.text}</p>
             </div>
             <div className="index-grid-item">
-              <img src={row.img} className="index-grid-item-img" />
+              <img
+                src={row.img}
+                className="index-grid-item-img"
+                alt=""
+                role="presentation"
+              />
             </div>
           </div>
         ))}

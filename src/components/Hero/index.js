@@ -19,7 +19,7 @@ const HeroImages = ({ images }) => {
       {images.map((image, index) => (
         <source srcSet={image} media={breakPoints[index]} key={index} />
       ))}
-      <img className="hero-img" src={defaultImage} />
+      <img alt="" className="hero-img" src={defaultImage} role="presentation" />
     </picture>
   )
 }

@@ -20,7 +20,7 @@ const Project = ({ project }) => (
       <Ratio ratio={3 / 4}>
         <picture>
           <source srcSet={project.img} media="(min-width: 750px)" />
-          <img src={emptyImg} />
+          <img src={emptyImg} alt="" role="presentation" />
         </picture>
       </Ratio>
     </div>
