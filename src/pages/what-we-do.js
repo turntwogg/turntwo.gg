@@ -34,7 +34,7 @@ const WhatWeDo = () => (
         </p>
 
         <p>
-          <Button>Get Started</Button>
+          <Button to="/contact">Get Started</Button>
         </p>
       </div>
 
