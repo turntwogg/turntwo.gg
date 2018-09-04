@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/turntwo.gg/app-0910a726359fe4965680.js","4d0f53b125a10bd46c58f05295baceed"],["/turntwo.gg/app-aa4cf7fcc8c165c4da32.js","a414e15e5857e7e17a0f2a4836cd5dfd"],["/turntwo.gg/app-ff71ad8ab24c9bbd3120.js","bf993d542f05e03aea46bf8c7d6405dc"],["/turntwo.gg/commons-7f9b63be09f5625aaf21.js","1ae0b2ef619c1933d14118d843f9bdf4"],["/turntwo.gg/index.html","0878c9560f78d6239f5b30744d25ba0d"],["/turntwo.gg/manifest.webmanifest","f8e497bc4dee3917ca36c7bf85020a6b"],["/turntwo.gg/offline-plugin-app-shell-fallback/index.html","58bbcb76f0d66ba5c83745e962daac93"]];
+var precacheConfig = [["/app-0910a726359fe4965680.js","4d0f53b125a10bd46c58f05295baceed"],["/app-aa4cf7fcc8c165c4da32.js","a414e15e5857e7e17a0f2a4836cd5dfd"],["/app-ff71ad8ab24c9bbd3120.js","b5e140415b6b683705a24c3cecd4c748"],["/commons-7a39d5a46ac76a31d185.js","2cfb7ec24d94c6b61a3922c78368e76b"],["/commons-7f9b63be09f5625aaf21.js","1ae0b2ef619c1933d14118d843f9bdf4"],["/index.html","3695de377840d306774ccb90d2d7a597"],["/manifest.webmanifest","f8e497bc4dee3917ca36c7bf85020a6b"],["/offline-plugin-app-shell-fallback/index.html","41926be15fb46eebf511c49314dfba95"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
