@@ -36,7 +36,7 @@ module.exports = {
       options: {
         name: 'TurnTwo',
         short_name: 'TurnTwo',
-        start_url: '/',
+        start_url: '.',
         background_color: '#f7f0eb',
         theme_color: '#a2466c',
         display: 'minimal-ui',
