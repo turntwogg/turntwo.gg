@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-ca3b5890893225da6c2d.js",
-      "component---src-pages-index-js-ca3b5890893225da6c2d.js.map"
+      "component---src-pages-index-js-6f1dcb9bca17674e17d9.js",
+      "component---src-pages-index-js-6f1dcb9bca17674e17d9.js.map"
     ],
     "path---our-work": [
       "path---our-work-a0e39f21c11f6a62c5ab.js",
@@ -19,6 +19,10 @@
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-f7758ecd57c83779f03a.js",
       "component---src-pages-contact-js-f7758ecd57c83779f03a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-654aa4994025982dd7db.js",
@@ -50,10 +54,14 @@
       "path---contact-a0e39f21c11f6a62c5ab.js",
       "path---contact-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-0910a726359fe4965680.js",
+      "app-ff71ad8ab24c9bbd3120.js",
       "build-js-styles.css",
-      "app-0910a726359fe4965680.js.map",
+      "app-ff71ad8ab24c9bbd3120.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-what-we-do-js": [
