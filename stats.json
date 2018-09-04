@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5f15222e17d8c4fd9e69.js",
-      "component---src-pages-index-js-5f15222e17d8c4fd9e69.js.map"
+      "component---src-pages-index-js-b08e8bad20e71fef9db2.js",
+      "component---src-pages-index-js-b08e8bad20e71fef9db2.js.map"
     ],
     "path---our-work": [
       "path---our-work-a0e39f21c11f6a62c5ab.js",
       "path---our-work-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-our-work-js": [
-      "component---src-pages-our-work-js-7edc996b3abd56bcd6e0.js",
-      "component---src-pages-our-work-js-7edc996b3abd56bcd6e0.js.map"
+      "component---src-pages-our-work-js-5a5fb4383bb0087d2e5b.js",
+      "component---src-pages-our-work-js-5a5fb4383bb0087d2e5b.js.map"
     ],
     "path---": [
       "path----afb9b647c4998a5f2158.js",
@@ -25,8 +25,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-da572a18610d50b19836.js",
-      "component---src-layouts-index-js-da572a18610d50b19836.js.map"
+      "component---src-layouts-index-js-25ecaebf87840bfa4efc.js",
+      "component---src-layouts-index-js-25ecaebf87840bfa4efc.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -65,8 +65,8 @@
       "build-js-styles.css.map"
     ],
     "component---src-pages-what-we-do-js": [
-      "component---src-pages-what-we-do-js-b43257f8a7d8c6dda947.js",
-      "component---src-pages-what-we-do-js-b43257f8a7d8c6dda947.js.map"
+      "component---src-pages-what-we-do-js-11bbea28ae128e54c9b3.js",
+      "component---src-pages-what-we-do-js-11bbea28ae128e54c9b3.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
