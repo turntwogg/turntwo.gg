@@ -19,6 +19,7 @@
   padding: 8px 0;
   border: 0;
   border-bottom: 1px solid #212121;
+  border-radius: 0;
   outline: none;
   transition: 250ms ease border;
 }

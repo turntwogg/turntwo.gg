@@ -6,12 +6,12 @@ import './Header.css'
 
 const links = [
   {
-    title: 'About',
-    to: '/about',
+    title: 'What We Do',
+    to: '/what-we-do',
   },
   {
-    title: 'Projects',
-    to: '/projects',
+    title: 'Our Work',
+    to: '/our-work',
   },
   {
     title: 'Contact',

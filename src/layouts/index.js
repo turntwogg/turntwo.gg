@@ -11,10 +11,14 @@ import './index.css'
 const Layout = ({ children, data }) => (
   <div className="site">
     <Helmet
-      title={data.site.siteMetadata.title}
+      title={`${
+        data.site.siteMetadata.title
+      } | Your Premier Esports Product Consultancy`}
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        {
+          name: 'description',
+          content: 'Your Premier Esports Product Consultancy',
+        },
       ]}
     />
     <Header />

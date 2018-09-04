@@ -10,7 +10,7 @@ import projectsHero from '../images/projects-hero.jpg'
 import projectsHeroMedium from '../images/projects-hero-medium.jpg'
 import projectsHeroSmall from '../images/projects-hero-small.jpg'
 
-const Projects = () => (
+const OurWork = () => (
   <div className="page page-projects">
     <Hero
       images={[projectsHeroSmall, projectsHeroMedium, projectsHero]}
@@ -27,4 +27,4 @@ const Projects = () => (
   </div>
 )
 
-export default Projects
+export default OurWork
