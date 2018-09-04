@@ -29,7 +29,7 @@ const Hero = ({ images, maxHeight, text, ...rest }) => (
     <div className="hero-inner" style={{ maxHeight }}>
       <div className="hero-content">
         <Container>
-          <h2 className="hero-text">{text}</h2>
+          <div className="hero-text">{text}</div>
         </Container>
       </div>
       <HeroImages images={images} />

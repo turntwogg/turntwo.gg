@@ -22,12 +22,18 @@ const Footer = () => (
         <div className="site-footer-block">
           <ul className="social-media-list">
             <li className="social-media-list-item">
-              <a class="social-media-list-link" href="//twitter.com/turntwogg">
+              <a
+                className="social-media-list-link"
+                href="//twitter.com/turntwogg"
+              >
                 Twitter
               </a>
             </li>
             <li className="social-media-list-item">
-              <a class="social-media-list-link" href="//github.com/turntwogg">
+              <a
+                className="social-media-list-link"
+                href="//github.com/turntwogg"
+              >
                 GitHub
               </a>
             </li>

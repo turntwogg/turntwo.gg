@@ -1,3 +1,21 @@
+@font-face {
+  font-family: RobotoMonoLocal;
+  src: local('Roboto Mono regular'), local('Roboto Mono'), local('RobotoMono');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: MontserratLocal;
+  src: local('Montserrat regular'), local('Montserrat');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: MontserratBoldLocal;
+  src: local('Montserrat 700'), local('Montserrat bold');
+  font-weight: 700;
+}
+
 *,
 *::before,
 *::after {
@@ -5,8 +23,8 @@
 }
 
 html {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  font-family: RobotoMonoLocal, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
   font-size: 100%;
   box-sizing: border-box;
 }
@@ -43,9 +61,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
-  font-weight: 400;
+  font-family: MontserratBoldLocal, MontserratLocal, -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    'Helvetica Neue', sans-serif;
+  font-weight: 700;
   line-height: 1.2;
 }
 
